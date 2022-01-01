@@ -1,4 +1,4 @@
-### Hi there, I'm Harshul! 👋 
+## Hi there, I'm Harshul! 👋 
 
 ## I'm an Engineer who works as a Data Scientist.
 
@@ -15,4 +15,4 @@
   <a href="https://www.instagram.com/harsh.oof/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 95></a>
 </p>
 
-### Technologies Used:
+## Technologies Used:
