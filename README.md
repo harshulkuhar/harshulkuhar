@@ -12,7 +12,7 @@
 <p align = "center">
   <a href = "https://www.linkedin.com/in/harshulkuhar/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = 87></a>
   <a href="https://www.instagram.com/harsh.oof/"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = 95></a>
-  <a href="https://github.com/harshulkuhar"> <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width = 60></a>
+  <a href="https://github.com/harshulkuhar"> <img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width = 78></a>
  
 </p>
 
