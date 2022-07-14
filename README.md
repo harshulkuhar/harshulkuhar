@@ -1,6 +1,6 @@
 ### Hi there, I'm Harshul! 👋 
 
-## I'm an Engineer who works as a Data Scientist.
+## I'm a Data Scientist working in the real-estate industry.
 
 - 📚 Interests:  Artificial Intelligence, Machine Learning, Computer Vision and Natural Language Processing.
 - 🥅 2022 Goals: Learn about MLOps principles and create pipelines for automatic retraining and drift detection.
