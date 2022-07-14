@@ -3,7 +3,7 @@
 ## I'm an Engineer who works as a Data Scientist.
 
 - 📚 Interests:  Artificial Intelligence, Machine Learning, Computer Vision and Natural Language Processing.
-- 🥅 2021 Goals: Learning more about latest tools and solving real-world problems.
+- 🥅 2022 Goals: Learn about MLOps principles and create pipelines for automatic retraining and drift detection.
 - ⚡ Fun fact: I sketch and my art is heavily inspired by manga, a Japanese comic medium.
 
 
