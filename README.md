@@ -1,8 +1,4 @@
-### I'm a Senior Data Scientist. I also make a lot of digital notes on my emt=otional support iPad.
-
-- 📚 Interests:  Artificial Intelligence, Machine Learning, Computer Vision and Natural Language Processing.
-- 🥅 2022 Goals: Learn about MLOps principles and create pipelines for automatic retraining and drift detection.
-- ⚡ Fun fact: I sketch and my art is heavily inspired by manga, a Japanese comic medium.
+### I'm a Senior Data Scientist. I also make a lot of digital notes on my emotional-support iPad.
 
 
 ### You can reach me here:
