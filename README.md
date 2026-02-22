@@ -15,6 +15,6 @@
 ## What I've built:
 
 - <a href = "https://github.com/harshulkuhar/codehelp">codehelp</a> : give a github repo, ask questions.
-- paperhelp : give an academic paper, ask questions based on your level of understanding.
-- bedtime stories : craft short, moral-based stories for children.
-- increasingly verbose : r/IncreasinglyVerbose but using GPT-4o
+- <a href = "https://github.com/harshulkuhar/paperhelp">paperhelp</a> : give an academic paper, ask questions based on your level of understanding.
+- <a href = "https://github.com/harshulkuhar/bedtime_stories_ai">bedtime stories</a> : craft short, moral-based stories for children.
+- <a href = "https://github.com/harshulkuhar/increasingly_verbose_app">increasingly verbose</a> : r/IncreasinglyVerbose but using GPT-4o
