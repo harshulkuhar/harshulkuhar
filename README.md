@@ -10,6 +10,7 @@
 
 ## What I've built:
 
+- <a href = "https://harshulkuhar.github.io/hand2excal/">hand2excal</a> : convert handwritten flowcharts to an exacalidraw format.
 - <a href = "https://github.com/harshulkuhar/codehelp">codehelp</a> : give a github repo, ask questions.
 - <a href = "https://github.com/harshulkuhar/paperhelp">paperhelp</a> : give an academic paper, ask questions based on your level of understanding.
 - <a href = "https://github.com/harshulkuhar/bedtime_stories_ai">bedtime stories</a> : craft short, moral-based stories for children.
