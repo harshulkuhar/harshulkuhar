@@ -10,7 +10,7 @@
 
 ## What I've built:
 
-- <a href = "https://harshulkuhar.github.io/pokedex-duo/">dexduo</a> : Pokedex-style app for iPhone Duo with a classification model.
+- <a href = "https://harshulkuhar.github.io/dexduo/">dexduo</a> : Pokedex-style app for iPhone Duo with a classification model.
 - <a href = "https://harshulkuhar.github.io/hand2excal/">hand2excal</a> : convert handwritten flowcharts to an exacalidraw format.
 - <a href = "https://github.com/harshulkuhar/codehelp">codehelp</a> : give a github repo, ask questions.
 - <a href = "https://github.com/harshulkuhar/paperhelp">paperhelp</a> : give an academic paper, ask questions based on your level of understanding.
